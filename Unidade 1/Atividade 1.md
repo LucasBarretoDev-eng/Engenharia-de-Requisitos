@@ -1,5 +1,9 @@
 # Levantamento de Requisitos do Sistema de Controle de Frequência Escolar
 
+## Alunos:
+Lucas Martins Barreto (22608058)
+Yuri Marques Oliveira (22610043) 
+
 ## 1. Quem utilizará o sistema?
 
 - Professores.
