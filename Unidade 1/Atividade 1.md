@@ -20,3 +20,7 @@
 ## 4. Explique, em poucas palavras, por que é importante levantar os requisitos antes de desenvolver um software.
 
 O levantamento de requisitos é uma etapa essencial no desenvolvimento de um software, pois permite compreender as necessidades dos usuários e os objetivos do sistema. Com essas informações, a equipe de desenvolvimento consegue planejar melhor as funcionalidades, reduzir erros e evitar retrabalho durante o projeto. Além disso, os requisitos garantem que o sistema final atenda às expectativas da escola, oferecendo uma solução mais eficiente, segura e adequada às atividades do dia a dia.
+
+## Referência
+
+PRESSMAN, Roger S.; MAXIM, Bruce R. **Engenharia de Software: Uma Abordagem Profissional**. 9. ed. Porto Alegre: AMGH, 2021.
