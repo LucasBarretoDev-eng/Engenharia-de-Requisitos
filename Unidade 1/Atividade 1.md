@@ -4,6 +4,7 @@
 
 - Professores.
 - Coordenadores e secretaria da escola.
+- Alunos
 
 ## 2. Cite 3 requisitos funcionais (o que o sistema deve fazer)
 
