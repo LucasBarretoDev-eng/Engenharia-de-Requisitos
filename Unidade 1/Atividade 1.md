@@ -2,6 +2,7 @@
 
 ## Alunos:
 [Lucas Martins Barreto ](https://github.com/LucasBarretoDev-eng)
+
 [Yuri Marques Oliveira ](https://github.com/yuriyz22)
 
 ## 1. Quem utilizará o sistema?
