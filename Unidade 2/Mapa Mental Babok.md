@@ -1,12 +1,12 @@
 # 🧠 MAPA MENTAL: BABOK® — ANÁLISE DE NEGÓCIOS
 
 ##  1. Conceitos Fundamentais (BACCM™)
-*   **Mudança (Change):** O ato de transformação em resposta a uma necessidade.
-*   **Necessidade (Need):** Um problema ou oportunidade a ser enfrentado.
-*   **Solução (Solution):** Uma forma específica de satisfazer uma ou mais necessidades em um contexto.
-*   **Valor (Value):** A importância, utilidade ou mérito de algo para um stakeholder dentro de um contexto.
+*   **Mudança :** O ato de transformação em resposta a uma necessidade.
+*   **Necessidade :** Um problema ou oportunidade a ser enfrentado.
+*   **Solução :** Uma forma específica de satisfazer uma ou mais necessidades em um contexto.
+*   **Valor :** A importância, utilidade ou mérito de algo para um stakeholder dentro de um contexto.
 *   **Stakeholder:** Um indivíduo ou grupo com interesse, influência ou afetado pela mudança.
-*   **Contexto (Context):** As circunstâncias que influenciam, são influenciadas por, e fornecem compreensão da mudança.
+*   **Contexto :** As circunstâncias que influenciam, são influenciadas por, e fornecem compreensão da mudança.
 
 ---
 
