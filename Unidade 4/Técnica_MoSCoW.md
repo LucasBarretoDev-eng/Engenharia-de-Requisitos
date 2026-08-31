@@ -29,10 +29,13 @@
 | 4 | **RF08** | O sistema deverá permitir o cancelamento e a remarcação de consultas agendadas. | Crítico para a manutenção da agenda atualizada e liberação de horários vagos. |
 | 5 | **RQ01** | **Segurança e Privacidade (LGPD):** O sistema deve criptografar dados sensíveis de saúde e aplicar controle de acesso baseado em perfis. | Requisito legal obrigatório de conformidade com a LGPD para proteção de dados médicos e pessoais. |
 
+# Parte B - 3 Requisitos para versão Futura
 
-
-
-
+|Id | Requisito | Impacto ao adiar |
+| :---: | :---: | :--- | :--- |
+| **RF01**| O sistema deverá disponibilizar um painel/dashboard com indicadores de desempenho (quantidade de consultas, faltas, cancelamentos).| OS Médicos terão mais controle de seus atendimentos e os pacientes saberão com qual Médico seria mais fácil de Agendar suas exames |
+|**RF03** | O sistema deverá registrar o motivo do cancelamento ou falta (no-show) do paciente. | O paciente saberá o motivo do cancelamento da sua consulta |
+|**RF09** | O sistema deverá disparar notificações automáticas aos pacientes afetados caso haja alteração na agenda do médico | O paciente terá maior facilidade de saber seu horário para atendimento|
 
 
 
