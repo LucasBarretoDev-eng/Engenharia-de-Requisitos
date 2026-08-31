@@ -25,3 +25,5 @@
 * **S (Should Have):** Requisitos importantes que agregam alto valor, mas não impedem o lançamento.
 * **C (Could Have):** Requisitos desejáveis/confortáveis que serão implementados se houver tempo/recursos.
 * **W (Won't Have / Would Have):** Requisitos acordados para não serem incluídos nesta versão/entrega.
+
+### Alunos:
