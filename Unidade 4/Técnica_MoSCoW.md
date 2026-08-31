@@ -47,8 +47,13 @@
 
 ### Alunos:
 **Lucas Martins Barreto**
+
 **João Pedro Duarte Borges**
+
 **Henrique Mota Monteiro**
+
 **Yuri Marques Oliveira**
+
 **Lucas de Oliveira Andrade**
+
 **Felipe Roosevelt Duarte**
