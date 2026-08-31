@@ -37,7 +37,7 @@
 | **RF03** | O sistema deverá registrar o motivo do cancelamento ou falta (no-show) do paciente. | O paciente saberá o motivo do cancelamento da sua consulta |
 | **RF09** | O sistema deverá disparar notificações automáticas aos pacientes afetados caso haja alteração na agenda do médico | O paciente terá maior facilidade de saber seu horário para atendimento |
 
-
+##Documentação Do Trabalho Completo: 
 
 ### Legenda do Método MoSCoW:
 * **M (Must Have):** Requisitos essenciais/obrigatórios para o sistema funcionar (MVP).
