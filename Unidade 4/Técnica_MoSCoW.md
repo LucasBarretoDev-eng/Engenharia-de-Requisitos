@@ -26,7 +26,7 @@
 | 2 | **RF03** | O sistema deverá permitir o cadastro e a manutenção de médicos e suas respectivas especialidades.|  Necessário para estruturar o corpo clínico e vincular os atendimentos às especialidades. |
 | 3 | **RF05** | O sistema deverá permitir a consulta de horários disponíveis por médico, especialidade e data. | Indispensável para que a recepção/usuário localize vagas disponíveis para agendamento.|
 | 4 | **RF08** | O sistema deverá permitir o cancelamento e a remarcação de consultas agendadas.|  Crítico para a manutenção da agenda atualizada e liberação de horários vagos.  |
-| 5 | **RF09** | O sistema deverá enviar lembretes automáticos de consulta para o paciente (via WhatsApp/E-mail).| Requisito importante para redução de faltas (absenteísmo), porém o sistema pode operar manualmente sem ele no MVP. |
+| 5 | **RQ01** |**Segurança e Privacidade (LGPD):** O sistema deve criptografar dados sensíveis de saúde e aplicar controle de acesso baseado em perfis | Requisito legal obrigatório de conformidade com a LGPD para proteção de dados médicos e pessoais. |
 
 
 
