@@ -27,3 +27,9 @@
 * **W (Won't Have / Would Have):** Requisitos acordados para não serem incluídos nesta versão/entrega.
 
 ### Alunos:
+**Lucas Martins Barreto**
+**João Pedro Duarte Borges**
+**Henrique Mota Monteiro**
+**Yuri Marques Oliveira**
+**Lucas de Oliveira Andrade**
+**Felipe Roosevelt Duarte**
