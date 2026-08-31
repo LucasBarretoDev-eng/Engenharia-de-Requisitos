@@ -31,11 +31,11 @@
 
 # Parte B - 3 Requisitos para versão Futura
 
-|Id | Requisito | Impacto ao adiar |
-| :---: | :---: | :--- | :--- |
-| **RF01**| O sistema deverá disponibilizar um painel/dashboard com indicadores de desempenho (quantidade de consultas, faltas, cancelamentos).| OS Médicos terão mais controle de seus atendimentos e os pacientes saberão com qual Médico seria mais fácil de Agendar suas exames |
-|**RF03** | O sistema deverá registrar o motivo do cancelamento ou falta (no-show) do paciente. | O paciente saberá o motivo do cancelamento da sua consulta |
-|**RF09** | O sistema deverá disparar notificações automáticas aos pacientes afetados caso haja alteração na agenda do médico | O paciente terá maior facilidade de saber seu horário para atendimento|
+| ID | Requisito | Impacto ao Adiar |
+| :---: | :--- | :--- |
+| **RF01** | O sistema deverá disponibilizar um painel/dashboard com indicadores de desempenho (quantidade de consultas, faltas, cancelamentos). | OS Médicos terão mais controle de seus atendimentos e os pacientes saberão com qual Médico seria mais fácil de Agendar suas exames |
+| **RF03** | O sistema deverá registrar o motivo do cancelamento ou falta (no-show) do paciente. | O paciente saberá o motivo do cancelamento da sua consulta |
+| **RF09** | O sistema deverá disparar notificações automáticas aos pacientes afetados caso haja alteração na agenda do médico | O paciente terá maior facilidade de saber seu horário para atendimento |
 
 
 
