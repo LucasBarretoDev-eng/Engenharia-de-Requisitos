@@ -19,6 +19,21 @@
 | **RQ05** | **Integração:** O sistema deve integrar-se a uma plataforma externa de Telemedicina para consultas online. | | | | **X** | Funcionalidade com alto impacto de inovação, porém definida fora do escopo do lançamento inicial (MVP). |
 
 ---
+# Parte A - 5 Requisitos Indispensáveis
+| Ordem | ID | Requisito | Por que Precisa Permanecer? |
+| :--- | :--- | :---: | :---: | :---: | :---: | :--- |
+| 1 | **RF01** | O sistema deverá permitir o cadastro de pacientes (Nome, CPF, Telefone, Data de Nascimento, E-mail).| Essencial para a identificação única do paciente e início de qualquer atendimento no sistema. |
+| 2 | **RF03** | O sistema deverá permitir o cadastro e a manutenção de médicos e suas respectivas especialidades.|  Necessário para estruturar o corpo clínico e vincular os atendimentos às especialidades. |
+| 3 | **RF05** | O sistema deverá permitir a consulta de horários disponíveis por médico, especialidade e data. | Indispensável para que a recepção/usuário localize vagas disponíveis para agendamento.|
+| 4 | **RF08** | O sistema deverá permitir o cancelamento e a remarcação de consultas agendadas.|  Crítico para a manutenção da agenda atualizada e liberação de horários vagos.  |
+| 5 | **RF09** | O sistema deverá enviar lembretes automáticos de consulta para o paciente (via WhatsApp/E-mail).| Requisito importante para redução de faltas (absenteísmo), porém o sistema pode operar manualmente sem ele no MVP. |
+
+
+
+
+
+
+
 
 ### Legenda do Método MoSCoW:
 * **M (Must Have):** Requisitos essenciais/obrigatórios para o sistema funcionar (MVP).
