@@ -93,7 +93,7 @@
 ### 2.2. Modelagem AS-IS e TO-BE
 
 #### Processo AS-IS
-*(Inserir diagrama ou descrição detalhada do fluxo atual aqui)*
+![Processo AS-IS](https://github.com/LucasBarretoDev-eng/Engenharia-de-Requisitos/blob/main/Unidade%203/Processos%20de%20Neg%C3%B3cios/Imagem%20AS-IS.jpg)
 
 #### Processo TO-BE
 *(Inserir diagrama ou descrição detalhada do fluxo proposto aqui)*
