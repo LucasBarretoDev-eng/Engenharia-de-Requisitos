@@ -3,7 +3,7 @@
 **Integrantes e Papéis:**
 * [Lucas Martins Barreto](https://github.com/LucasBarretoDev-eng) - Documentação
 * [João Pedro Duarte Borges](https://github.com/joaopedroduarteborges) - Analista de Requisitos
-* [Felipe Roosevelt](https://github.com/nomedeusuario3) - Analista de Processos
+* [Felipe Roosevelt](https://github.com/fe-lip-pe) - Analista de Processos
 * [Lucas de Oliveira Andrade](https://github.com/LucasOlvrAndrade) = Representante do Cliente
 * [Yuri Marques Oliveira](https://github.com/yuriyz22) = Representante da Clínica
 * [Henrique Mota Monteiro](https://github.com/Henriquemotaux) = Modelador
