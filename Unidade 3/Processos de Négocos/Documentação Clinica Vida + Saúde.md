@@ -1,7 +1,7 @@
 # Documentação do Trabalho – Engenharia de Requisitos
 
 **Integrantes e Papéis:**
-* * [Lucas Martins Barreto]([https://github.com/](https://github.com/LucasBarretoDev-eng)) - Documentação
+* * [Lucas Martins Barreto]((https://github.com/LucasBarretoDev-eng)) - Documentação
 * [João Pedro Duarte Borges](https://github.com/nomedeusuario2) - Analista de Requisitos
 * [Felipe Roosevelt](https://github.com/nomedeusuario3) - Analista de Processos
 * **Lucas de Oliveira Andrade** = Representante do Cliente
