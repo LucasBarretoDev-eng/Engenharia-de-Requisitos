@@ -2,11 +2,11 @@
 
 **Integrantes e Papéis:**
 * [Lucas Martins Barreto](https://github.com/LucasBarretoDev-eng) - Documentação
-* [João Pedro Duarte Borges](https://github.com/nomedeusuario2) - Analista de Requisitos
+* [João Pedro Duarte Borges](https://github.com/joaopedroduarteborges) - Analista de Requisitos
 * [Felipe Roosevelt](https://github.com/nomedeusuario3) - Analista de Processos
-* **Lucas de Oliveira Andrade** = Representante do Cliente
-* **Yuri Marques Oliveira** = Representante da Clínica
-* **Henrique Mota Monteiro** = Modelador
+* [Lucas de Oliveira Andrade](https://github.com/LucasOlvrAndrade) = Representante do Cliente
+* [Yuri Marques Oliveira](https://github.com/yuriyz22) = Representante da Clínica
+* [Henrique Mota Monteiro](https://github.com/Henriquemotaux) = Modelador
 
 ---
 
@@ -150,3 +150,10 @@
 | **Taxa de faltas (*No-show*)** | Verificar quantos pacientes não compareceram às consultas. |
 | **Tempo médio de atendimento** | Acompanhar quanto tempo, em média, dura cada atendimento. |
 | **Taxa de ocupação dos horários** | Verificar quanto dos horários disponíveis dos médicos estão sendo utilizados. |
+
+## 5. Referencias 
+* **Semestre 1** *Engenharia de Software*
+* **BRASIL.** *Lei nº 13.709, de 14 de agosto de 2018. Lei Geral de Proteção de Dados Pessoais (LGPD)*. Brasília, DF: Presidência da República, 2018.
+* **VAZQUEZ, Carlos; SIMÕES, Guilherme.** *Engenharia de Requisitos: software orientado ao negócio*. 1. ed. Rio de Janeiro: Brasport, 2016.
+
+**Uso de IA para Correções e Melhorias de Ortografia**
